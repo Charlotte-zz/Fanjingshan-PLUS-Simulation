@@ -64,13 +64,3 @@ All third-party data are publicly available from their original providers as lis
 
 ---
 
-## 🧾 Citation
-If you use this repository, please cite:
-
-> Zhang, C., & Duan, Y. (2025). *Multi-scenario land-use change simulation with PLUS: Evidence from the Fanjingshan Region.* Submitted to *International Journal of Geographical Information Science (IJGIS).*
-
----
-
-## 📜 License
-This repository is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
-You are free to share and adapt the materials for any purpose, provided that proper credit is given.
